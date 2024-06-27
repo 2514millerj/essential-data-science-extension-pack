@@ -1,0 +1,52 @@
+{
+    "name": "essential-data-science-extension-pack",
+    "displayName": "Essential Data Science Extension Pack",
+    "description": "Popular Visual Studio Code extensions for data scientists and data developers",
+    "version": "1.0.3",
+    "publisher": "MeerkatIO",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/2514millerj/essential-data-science-extension-pack.git"
+    },
+    "bugs": {
+      "url": "https://github.com/2514millerj/essential-data-science-extension-pack/issues"
+    },
+    "icon": "images/logo-transparent.png",
+    "galleryBanner": {
+        "color": "#1e76c9",
+        "theme": "dark"
+    },
+    "engines": {
+      "vscode": "^1.62.0"
+    },
+    "keywords": [
+      "python",
+      "jupyter",
+      "data science",
+      "notebook",
+      "productivity",
+      "big data",
+      "data wrangler",
+      "database",
+      "csv",
+      "monitoring",
+      "R",
+      "SQLite"
+    ],
+    "categories": [
+      "Extension Packs",
+      "Machine Learning",
+      "Data Science"
+    ],
+    "extensionPack": [
+      "ms-python.python",
+      "REditorSupport.r",
+      "ms-toolsai.jupyter",
+      "ms-toolsai.datawrangler",
+      "RandomFractalsInc.vscode-data-preview",
+      "MeerkatIO.meerkatio",
+      "yy0931.vscode-sqlite3-editor",
+      "mechatroner.rainbow-csv"
+    ]
+  }
