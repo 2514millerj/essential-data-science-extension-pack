@@ -12,7 +12,7 @@
     "bugs": {
       "url": "https://github.com/2514millerj/essential-data-science-extension-pack/issues"
     },
-    "icon": "images/logo-transparent.png",
+    "icon": "data-science-icon.png",
     "galleryBanner": {
         "color": "#1e76c9",
         "theme": "dark"

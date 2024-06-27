@@ -1,7 +1,7 @@
-## [1.0.3]
+## [1.0.1]
 
-- Add initial extension list
+- Add initial extension list and icon
 
-## [0.0.1]
+## [1.0.0]
 
 - Initial commit
